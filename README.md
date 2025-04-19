@@ -131,3 +131,10 @@ Para executar os testes automatizados:
 mvn test
 ```
 O sistema utiliza H2 como banco de dados em memória para testes.
+
+# 🚧 Frontend em Construção!  
+**Sistema de agendamentos no "canteiro de obras" digital**  
+
+🛠 **Status do projeto:**  
+- Backend funcionando como relógio suíço ⚙️✅  
+- Frontend recebendo "acabamentos finais" 👷🎨  
